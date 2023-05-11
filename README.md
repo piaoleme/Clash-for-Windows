@@ -1,4 +1,4 @@
-# Clash-for-Windows-
+# Clash-for-Windows-汉化去广告版
 删除广告并采用汉化补丁后重新压缩
 
 
