@@ -8,4 +8,9 @@
 
 因小白用户过多，需要下载后替换的简单操作也不会，所以我直接下载替换后重新压缩上传，并未对原版进行任何修改，可自行下载对比MD5
 
-下载地址：
+最新下载地址：
+
+https://github.com/piaoleme/Clash-for-Windows/releases/download/v0.20.22/Clash.for.Windows-0.20.22-win.zip
+
+
+更新日期：2023年5月11日
